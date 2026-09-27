@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌡️ Termômetro do Crédito
 
 **Termômetro do Crédito: aplicação para apoio à compreensão do cenário econômico por pequenos empreendedores**
@@ -144,3 +145,7 @@ um *start command* `streamlit run app.py --server.port $PORT
 
 Este painel tem finalidade educativa e não constitui recomendação
 financeira, de investimento ou de crédito.
+=======
+# pi_2_termometro_do_credito
+Ideia de painel que traduz indicadores do Bacen em uma leitura simples para pessoas físicas e pequenos empresários decidirem sobre crédito, dívida e investimento.
+>>>>>>> 1a4f6b1a48f6495d8df299e90894a8568b4947bb
